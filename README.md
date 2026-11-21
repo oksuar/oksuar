@@ -1,5 +1,5 @@
 <!-- 
-  Aesthetic: Fedora Electric Blue (#3D5A6C / #3071A9 / #111114)
+  Aesthetic: Electric Blue (#3D5A6C / #3071A9 / #111114)
   Vibe: Clean, terminal-inspired, dark monochrome + electric cyan/blue accents
 -->
 
@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ArnavRoy&color=3071A9&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/OS-Fedora%20Linux-3071A9?style=flat-square&logo=fedora&logoColor=white" alt="Fedora Linux" />
+  <img src="https://img.shields.io/badge/OS-Windows%2010%20IoT%20LTSC-3071A9?style=flat-square&logo=windows&logoColor=white" alt="Windows 10 IoT LTSC" />
   <img src="https://img.shields.io/badge/Editor-Zed-3071A9?style=flat-square&logo=zedindustries&logoColor=white" alt="Zed Editor" />
 </p>
 
@@ -23,7 +23,7 @@ What Do i Do: I am Currently Preparing For the engineering Entrance Exam Called 
 
 What i Aspire: Build cool things and hopefully work at <img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white" /> someday :3
 
-What Tools I use: I use Fedora && GNOME as my daily drive // workstation for Studying, Zed && Fresh IDE for codes.
+What Tools I use: I use Windows 10 IoT LTSC as my daily drive // workstation for Studying, Zed && Fresh IDE for codes.
 
 Interested In: Game Development, AI, Computer Science & Hardware.
 
